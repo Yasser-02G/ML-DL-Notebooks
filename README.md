@@ -184,7 +184,7 @@ Upload any `.ipynb` file directly to [colab.research.google.com](https://colab.r
 
 **Yasser** — Network & Security Engineer
 
-🔗 [GitHub](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2FYasser-02G)
+- GitHub: [@Yasser-02G](https://github.com/Yasser-02G)
 
 Feel free to open an _issue_ or a _pull request_ if you have suggestions to improve this project.
 
